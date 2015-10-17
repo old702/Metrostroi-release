@@ -1,2 +1,4 @@
 //1.0
 Текстуры и модель вагона Е и его приборов. 
+//1.1
+Changed model size, centered elements for animation
